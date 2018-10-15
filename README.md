@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/SoftwareSquad/TicTacToe.svg?style=svg)](https://circleci.com/gh/SoftwareSquad/TicTacToe)
 # TicTacToe
 ## Hugbúnaðarfræði - Late term project
 
