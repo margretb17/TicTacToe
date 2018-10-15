@@ -4,7 +4,7 @@
   "description": "Síðannar verkefni í hugbúnaðarfræði",
   "main": "app.js",
   "scripts": {
-    "test": "npm jest"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
