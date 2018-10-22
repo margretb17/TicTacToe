@@ -5,7 +5,7 @@ var fs = require('fs');
 const app = express();
 
 //location of all static files such as "index.html"
-var files = path.normalize("./src/dist");
+var files = path.normalize("./dist");
 
 //setup
 //app is able to get static files such as CSS files
