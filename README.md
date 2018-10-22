@@ -35,3 +35,32 @@ To deploy the features you have **completed** you'll have to merge the master br
 `git push`
 
 ### JavaScript
+When we create variables with compound words, our second word starts with a capital letter (pascal casing): 
+```javascript
+var firstSecond
+```
+Our comments start with //
+```javascript
+//some comment 
+function testCode() {
+    console.log("some text");
+}
+```
+
+### HTML
+
+# <h1>
+## <h2>
+## <h3>
+  
+Unordered list:
+⋅⋅* First item
+⋅⋅* Second item
+⋅⋅* Third item
+
+Ordered list:
+1. First item
+2. Second item
+3. Third item
+
+ 
